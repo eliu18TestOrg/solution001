@@ -1,0 +1,12 @@
+site_name: 'solution001'
+
+nav:
+  - Overview:
+      - What is this solution for?: 'overview/what-is-this-solution-for.md'
+      - Architecture overview: 'overview/architecture-overview.md'
+  - Getting Started:
+      - Getting Started: 'getting-started/getting-started.md'
+      - Project Structure: 'getting-started/project-structure.md'
+
+plugins:
+  - techdocs-core

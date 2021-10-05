@@ -1,0 +1,15 @@
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: Solution API
+  license:
+    name: MIT
+servers:
+  - url: https://solution001-dev.ea.sdlc.k8s.cbrands.com/testcontext/api
+paths:
+  /message:
+    get:
+      summary: Hello world message
+      responses:
+        '200':
+          description: A hello world message
