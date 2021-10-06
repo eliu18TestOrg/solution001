@@ -32,4 +32,4 @@ spec:
   lifecycle: experimental
   owner: ConstellationBrands
   definition:
-    $text: https://github.com/ConstellationBrands/solution001/blob/main/swagger.yaml
+    $text: https://github.com/eliu18TestOrg/solution001/blob/main/swagger.yaml
