@@ -12,7 +12,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-label-selector: "app=solution001"
     argocd/app-selector: "app=solution001"
-    jira/project-key: 
+    jira/project-key: ""
     #circleci.com/project-slug: github/ConstellationBrands/solution001
     #jira/component: <example-component>
 spec:
